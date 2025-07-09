@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration app="BACKEND" formatVersion="14" lastSavedWith="Configurator Backend" lastSavedWithVersion="3.50.0" toolsPackage="ModusToolbox 3.5.0" xmlns="http://cypress.com/xsd/cydesignfile_v5">
     <Devices>
-        <Device mpn="CY8C4146LWE-HVS115X">
+        <Device mpn="CY8C4147LWE-HVS035X">
             <BlockConfig>
                 <Block location="ioss[0].port[0].pin[0]">
                     <Aliases>
@@ -408,6 +408,46 @@
                         <Param id="ch15_range_intr" value="false"/>
                         <Param id="ch15_res" value="CY_SAR_MAX_RES"/>
                         <Param id="ch15_sat_intr" value="false"/>
+                        <Param id="ch16CsinkVminus" value="false"/>
+                        <Param id="ch16CsinkVplus" value="false"/>
+                        <Param id="ch16CsrcVminus" value="false"/>
+                        <Param id="ch16CsrcVplus" value="false"/>
+                        <Param id="ch16_avg" value="false"/>
+                        <Param id="ch16_input" value="CY_SAR_CHAN_SINGLE_ENDED"/>
+                        <Param id="ch16_min_acq_time" value="194"/>
+                        <Param id="ch16_range_intr" value="false"/>
+                        <Param id="ch16_res" value="CY_SAR_MAX_RES"/>
+                        <Param id="ch16_sat_intr" value="false"/>
+                        <Param id="ch17CsinkVminus" value="false"/>
+                        <Param id="ch17CsinkVplus" value="false"/>
+                        <Param id="ch17CsrcVminus" value="false"/>
+                        <Param id="ch17CsrcVplus" value="false"/>
+                        <Param id="ch17_avg" value="false"/>
+                        <Param id="ch17_input" value="CY_SAR_CHAN_SINGLE_ENDED"/>
+                        <Param id="ch17_min_acq_time" value="194"/>
+                        <Param id="ch17_range_intr" value="false"/>
+                        <Param id="ch17_res" value="CY_SAR_MAX_RES"/>
+                        <Param id="ch17_sat_intr" value="false"/>
+                        <Param id="ch18CsinkVminus" value="false"/>
+                        <Param id="ch18CsinkVplus" value="false"/>
+                        <Param id="ch18CsrcVminus" value="false"/>
+                        <Param id="ch18CsrcVplus" value="false"/>
+                        <Param id="ch18_avg" value="false"/>
+                        <Param id="ch18_input" value="CY_SAR_CHAN_SINGLE_ENDED"/>
+                        <Param id="ch18_min_acq_time" value="194"/>
+                        <Param id="ch18_range_intr" value="false"/>
+                        <Param id="ch18_res" value="CY_SAR_MAX_RES"/>
+                        <Param id="ch18_sat_intr" value="false"/>
+                        <Param id="ch19CsinkVminus" value="false"/>
+                        <Param id="ch19CsinkVplus" value="false"/>
+                        <Param id="ch19CsrcVminus" value="false"/>
+                        <Param id="ch19CsrcVplus" value="false"/>
+                        <Param id="ch19_avg" value="false"/>
+                        <Param id="ch19_input" value="CY_SAR_CHAN_SINGLE_ENDED"/>
+                        <Param id="ch19_min_acq_time" value="194"/>
+                        <Param id="ch19_range_intr" value="false"/>
+                        <Param id="ch19_res" value="CY_SAR_MAX_RES"/>
+                        <Param id="ch19_sat_intr" value="false"/>
                         <Param id="ch1CsinkVminus" value="false"/>
                         <Param id="ch1CsinkVplus" value="false"/>
                         <Param id="ch1CsrcVminus" value="false"/>
@@ -418,6 +458,46 @@
                         <Param id="ch1_range_intr" value="false"/>
                         <Param id="ch1_res" value="CY_SAR_MAX_RES"/>
                         <Param id="ch1_sat_intr" value="false"/>
+                        <Param id="ch20CsinkVminus" value="false"/>
+                        <Param id="ch20CsinkVplus" value="false"/>
+                        <Param id="ch20CsrcVminus" value="false"/>
+                        <Param id="ch20CsrcVplus" value="false"/>
+                        <Param id="ch20_avg" value="false"/>
+                        <Param id="ch20_input" value="CY_SAR_CHAN_SINGLE_ENDED"/>
+                        <Param id="ch20_min_acq_time" value="194"/>
+                        <Param id="ch20_range_intr" value="false"/>
+                        <Param id="ch20_res" value="CY_SAR_MAX_RES"/>
+                        <Param id="ch20_sat_intr" value="false"/>
+                        <Param id="ch21CsinkVminus" value="false"/>
+                        <Param id="ch21CsinkVplus" value="false"/>
+                        <Param id="ch21CsrcVminus" value="false"/>
+                        <Param id="ch21CsrcVplus" value="false"/>
+                        <Param id="ch21_avg" value="false"/>
+                        <Param id="ch21_input" value="CY_SAR_CHAN_SINGLE_ENDED"/>
+                        <Param id="ch21_min_acq_time" value="194"/>
+                        <Param id="ch21_range_intr" value="false"/>
+                        <Param id="ch21_res" value="CY_SAR_MAX_RES"/>
+                        <Param id="ch21_sat_intr" value="false"/>
+                        <Param id="ch22CsinkVminus" value="false"/>
+                        <Param id="ch22CsinkVplus" value="false"/>
+                        <Param id="ch22CsrcVminus" value="false"/>
+                        <Param id="ch22CsrcVplus" value="false"/>
+                        <Param id="ch22_avg" value="false"/>
+                        <Param id="ch22_input" value="CY_SAR_CHAN_SINGLE_ENDED"/>
+                        <Param id="ch22_min_acq_time" value="194"/>
+                        <Param id="ch22_range_intr" value="false"/>
+                        <Param id="ch22_res" value="CY_SAR_MAX_RES"/>
+                        <Param id="ch22_sat_intr" value="false"/>
+                        <Param id="ch23CsinkVminus" value="false"/>
+                        <Param id="ch23CsinkVplus" value="false"/>
+                        <Param id="ch23CsrcVminus" value="false"/>
+                        <Param id="ch23CsrcVplus" value="false"/>
+                        <Param id="ch23_avg" value="false"/>
+                        <Param id="ch23_input" value="CY_SAR_CHAN_SINGLE_ENDED"/>
+                        <Param id="ch23_min_acq_time" value="194"/>
+                        <Param id="ch23_range_intr" value="false"/>
+                        <Param id="ch23_res" value="CY_SAR_MAX_RES"/>
+                        <Param id="ch23_sat_intr" value="false"/>
                         <Param id="ch2CsinkVminus" value="false"/>
                         <Param id="ch2CsinkVplus" value="false"/>
                         <Param id="ch2CsrcVminus" value="false"/>
@@ -629,13 +709,13 @@
                 <Personality template="m0s8power" version="1.0">
                     <Block location="srss[0].power[0]" locked="true"/>
                     <Parameters>
-                        <Param id="AmuxPumpEn" value="false"/>
+                        <Param id="AmuxPumpEn" value="true"/>
                         <Param id="HVBodEn" value="true"/>
                         <Param id="VccOVDEn" value="false"/>
                         <Param id="VddOVDEn" value="false"/>
                         <Param id="deepsleepLatency" value="0"/>
                         <Param id="idlePwrMode" value="CY_CFG_PWR_MODE_DEEPSLEEP"/>
-                        <Param id="vddaMv" value="5000"/>
+                        <Param id="vddaMv" value="3300"/>
                     </Parameters>
                 </Personality>
             </BlockConfig>
